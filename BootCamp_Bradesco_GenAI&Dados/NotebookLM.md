@@ -16,7 +16,6 @@ The primary goal was to test the capabilities of Large Language Models (LLMs) in
 ## 🛠️ Tech Stack
 
 * **Google NotebookLM:** RAG (Retrieval-Augmented Generation) engine for source synthesis.
-* **Gemini 1.5:** Underlying LLM used for reasoning and explaining mathematical concepts.
 * **Markdown/LaTeX:** For documentation (Created with gemini 1.5).
 
 ## 📂 Project Assets
